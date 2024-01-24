@@ -131,7 +131,7 @@ li {
 
 li::marker {
     font-weight: 600;
-    color: var(--Dark-Raspberry);
+    color: var(--Nutmeg);
 }
 
 li span {
